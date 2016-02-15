@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BarHora</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="error_connect_to_services">Can\'t connect to Google Play services</string>
+    <string name="error_finding_bar">Error finding bar on the map</string>
+</resources>
